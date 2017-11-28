@@ -22,7 +22,7 @@ namespace MafiaPlus
 
                 int numPlayers;
 
-                while (!Int32.TryParse(Console.ReadLine(), out numPlayers) || Int32.TryParse(Console.ReadLine(), out numPlayers) < 1)
+                while (!Int32.TryParse(Console.ReadLine(), out numPlayers))
                 {
                     Console.WriteLine("Invalid input. Please enter a valid number of players!");
                 }

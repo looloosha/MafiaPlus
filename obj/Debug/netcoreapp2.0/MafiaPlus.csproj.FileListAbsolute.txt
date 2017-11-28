@@ -9,3 +9,14 @@
 /Users/tomhalverson/Projects/MafiaPlus/MafiaPlus/obj/Debug/netcoreapp2.0/MafiaPlus.AssemblyInfo.cs
 /Users/tomhalverson/Projects/MafiaPlus/MafiaPlus/obj/Debug/netcoreapp2.0/MafiaPlus.dll
 /Users/tomhalverson/Projects/MafiaPlus/MafiaPlus/obj/Debug/netcoreapp2.0/MafiaPlus.pdb
+/Users/alexdavidyuk/Desktop/MafiaPlus/obj/Debug/netcoreapp2.0/MafiaPlus.csprojResolveAssemblyReference.cache
+/Users/alexdavidyuk/Desktop/MafiaPlus/obj/Debug/netcoreapp2.0/MafiaPlus.csproj.CoreCompileInputs.cache
+/Users/alexdavidyuk/Desktop/MafiaPlus/obj/Debug/netcoreapp2.0/MafiaPlus.AssemblyInfoInputs.cache
+/Users/alexdavidyuk/Desktop/MafiaPlus/obj/Debug/netcoreapp2.0/MafiaPlus.AssemblyInfo.cs
+/Users/alexdavidyuk/Desktop/MafiaPlus/obj/Debug/netcoreapp2.0/MafiaPlus.dll
+/Users/alexdavidyuk/Desktop/MafiaPlus/obj/Debug/netcoreapp2.0/MafiaPlus.pdb
+/Users/alexdavidyuk/Desktop/MafiaPlus/bin/Debug/netcoreapp2.0/MafiaPlus.deps.json
+/Users/alexdavidyuk/Desktop/MafiaPlus/bin/Debug/netcoreapp2.0/MafiaPlus.runtimeconfig.json
+/Users/alexdavidyuk/Desktop/MafiaPlus/bin/Debug/netcoreapp2.0/MafiaPlus.runtimeconfig.dev.json
+/Users/alexdavidyuk/Desktop/MafiaPlus/bin/Debug/netcoreapp2.0/MafiaPlus.dll
+/Users/alexdavidyuk/Desktop/MafiaPlus/bin/Debug/netcoreapp2.0/MafiaPlus.pdb

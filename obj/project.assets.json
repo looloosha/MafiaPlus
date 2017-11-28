@@ -2273,19 +2273,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/tomhalverson/.nuget/packages/": {}
+    "/Users/alexdavidyuk/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tomhalverson/Projects/MafiaPlus/MafiaPlus/MafiaPlus.csproj",
+      "projectUniqueName": "/Users/alexdavidyuk/Desktop/MafiaPlus/MafiaPlus.csproj",
       "projectName": "MafiaPlus",
-      "projectPath": "/Users/tomhalverson/Projects/MafiaPlus/MafiaPlus/MafiaPlus.csproj",
-      "packagesPath": "/Users/tomhalverson/.nuget/packages/",
-      "outputPath": "/Users/tomhalverson/Projects/MafiaPlus/MafiaPlus/obj",
+      "projectPath": "/Users/alexdavidyuk/Desktop/MafiaPlus/MafiaPlus.csproj",
+      "packagesPath": "/Users/alexdavidyuk/.nuget/packages/",
+      "outputPath": "/Users/alexdavidyuk/Desktop/MafiaPlus/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/tomhalverson/.config/NuGet/NuGet.Config"
+        "/Users/alexdavidyuk/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
