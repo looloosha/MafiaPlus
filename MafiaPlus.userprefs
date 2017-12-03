@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{DFAA7585-9B1E-45D4-BEF9-83FEAA2C8F51}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/Mafia.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/Doctor.cs">
     <Files>
-      <File FileName="Program.cs" Line="25" Column="75" />
-      <File FileName="Entities/Round.cs" Line="79" Column="40" />
-      <File FileName="Entities/Player.cs" Line="16" Column="10" />
-      <File FileName="Entities/Doctor.cs" Line="1" Column="1" />
-      <File FileName="Entities/Mafia.cs" Line="12" Column="23" />
+      <File FileName="Program.cs" Line="11" Column="1" />
+      <File FileName="Entities/Round.cs" Line="250" Column="73" />
+      <File FileName="Entities/Player.cs" Line="19" Column="65" />
+      <File FileName="Entities/Doctor.cs" Line="8" Column="63" />
+      <File FileName="Entities/Mafia.cs" Line="14" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

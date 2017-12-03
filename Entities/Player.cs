@@ -3,7 +3,7 @@ using MafiaPlus.Enumerations;
 
 namespace MafiaPlus.Entities
 {
-    public class Player
+    public class Player : IPrintable
     {
         public string name;
         public ROLE role;
@@ -13,6 +13,10 @@ namespace MafiaPlus.Entities
             this.name = name;
             this.role = role;
 
+        }
+
+        public void print(){
+            Console.WriteLine(name + "  |  " + role.ToString());
         }
 
     }

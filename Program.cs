@@ -30,7 +30,7 @@ namespace MafiaPlus
 
                 Round round = new Round(numPlayers);
 
-
+                round.runGameSequence();
 
 
 

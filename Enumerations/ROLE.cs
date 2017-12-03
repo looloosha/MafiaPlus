@@ -3,6 +3,6 @@ namespace MafiaPlus.Enumerations
 {
     public enum ROLE
     {
-        Mafia, Doctor, Sheriff, Civilian 
+        Mafia, Doctor, Sheriff, Civilian, None
     }
 }

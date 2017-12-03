@@ -5,12 +5,6 @@ namespace MafiaPlus.Entities
 {
     public class Doctor : Player
     {
-        public Doctor(string name) : base(name, ROLE.Doctor)
-        {}
-
-
-        public static void heal(Player p){
-            
-        }
+        public Doctor(string name) : base(name, ROLE.Doctor){}
     }
 }

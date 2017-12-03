@@ -9,9 +9,9 @@ namespace MafiaPlus.Entities
         { }
 
 
-        public static void kill(Player p)
+        public static void kill(Player p, Round r)
         {
-
+            r.playersAlive.Remove(p);
         }
     }
 }

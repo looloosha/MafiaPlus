@@ -7,11 +7,5 @@ namespace MafiaPlus.Entities
     {
         public Sheriff(string name) : base(name, ROLE.Sheriff)
         { }
-
-
-        public static void accuse(Player p)
-        {
-
-        }
     }
 }
